@@ -30,15 +30,24 @@ nav {
 nav ul {
   display: flex;
   gap: 48px;
+  list-style-type: none;
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
 }
 
 /* Check list link style */
 nav ul li a {
-
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  color: #7D7987; /* Default link color */
+  font-weight: normal; /* Default font weight */
 }
 
 /* Make text bold on hover */
 nav ul li a:hover {
+  color: #000000; /* Change color on hover */
+  font-weight: bold; /* Make text bold on hover */
   
 }
 
@@ -52,32 +61,72 @@ main {
 
 /* Check margin and font styling */
 .text h1 {
-  font-family: 'Mulish', sans-serif;
+  font-family: 'Mulish', sans-serif; /* Apply the Mulish font */
+  color: #000; /* Set color to black */
+  font-size: 48px; /* Set font size */
+  font-style: normal; /* Normal font style */
+  font-weight: 400; /* Normal font weight */
+  line-height: 150%; /* Line height (72px) */
+  text-transform: uppercase; /* Make the text uppercase */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
 }
 
 /* Check font styling */
 .text h1 span {
+  color: #89C5CC; /* Light blue color for "EXCLUSIVE" */
+  font-size: 48px; /* Same font size as h1 */
+  font-style: normal; /* Normal font style */
+  font-weight: 700; /* Bold text for emphasis */
+  line-height: 150%; /* Consistent line height */
+  text-transform: uppercase; /* Make "EXCLUSIVE" uppercase */
 }
 
 /* Check font styling */
 .text p {
   font-family: 'Open Sans', sans-serif; 
+  color: #7D7987;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 25.6px */
+  margin: 16px 0 48px 0; /* Create space between paragraph, button, and headline */
+
 }
 
 /* Check font styling and make sure the button is rounded */
 .text button {
-  font-family: 'Open Sans', sans-serif;
-  display: flex;
+  display: inline-flex;
+  height: 56px;
+  padding: 14px 32px 15px 32px;
+  justify-content: center;
+  align-items: center;
   gap: 8px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background-color: #69B99D;
+
+  font-family: 'DM Sans', sans-serif;
+  color:#F9F9F9;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border: none;
+  cursor: pointer;  
 }
 
 /* Handle when user hover on the button */
 .text button:hover {
+  background-color: #4a9a7e;
 }
 
 /* Check the text styling */
 footer {
   font-family: 'Open Sans', sans-serif; 
+  text-align: center;
 }
 
 /* Check the text styling */
