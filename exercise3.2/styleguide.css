@@ -1,0 +1,8 @@
+:root {
+  --generalbody-text: rgba(51, 51, 51, 1);
+  --generalbody-text-lighter: rgba(101, 101, 101, 1);
+  --generalsubstrate-middle: rgba(241, 241, 241, 1);
+  --mainprimary-three: rgba(253, 217, 211, 1);
+  --mainprimary-two: rgba(251, 243, 235, 1);
+  --mainprimary-one: rgba(237, 236, 255, 1);
+}
