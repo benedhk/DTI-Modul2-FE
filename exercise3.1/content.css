@@ -1,0 +1,288 @@
+.prada-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 100px;
+    gap: 24px;
+}
+
+.frame-child {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 689px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.explore-sports-inspired-ready- {
+    align-self: stretch;
+    position: relative;
+    font-size: 18px;
+    font-family: 'Open Sans';
+}
+
+.summer-2021-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.new-in-for {
+    position: relative;
+    font-weight: 600;
+}
+
+.cta {
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 48px;
+    font-size: 14px;
+    font-family: 'Open Sans';
+}
+
+.summer-2021 {
+    width: 406px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    font-size: 36px;
+}
+
+.frame-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    font-size: 48px;
+    font-family: 'Modern No 20';
+}
+
+.new-arrivals {
+    align-self: stretch;
+    position: relative;
+    font-weight: 600;
+}
+
+.frame-item {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 496px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+
+.terry-tote-bag {
+    align-self: stretch;
+    position: relative;
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+}
+
+.rectangle-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.re-nylon-bucket-hat {
+    align-self: stretch;
+    position: relative;
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+}
+
+.colors-group {
+    width: 138px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.color-parent {
+    width: 178px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.rectangle-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+}
+
+.frame-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    text-align: left;
+    font-size: 12px;
+    color: #848484;
+}
+
+.new-arrivals-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 48px;
+}
+
+.the-pre-fall-2021 {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+}
+
+.light-layers-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1px;
+}
+
+.cta1 {
+    width: 224px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 48px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.light-layers {
+    width: 243px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 37px;
+}
+
+.text-image-child {
+    width: 781px;
+    position: relative;
+    height: 656px;
+    object-fit: cover;
+}
+
+.text-image {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 24px;
+}
+
+.colors-parent1 {
+    width: 81px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.frame-child3 {
+    width: 1236px;
+    position: relative;
+    height: 581px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.la-pradina {
+    position: relative;
+    letter-spacing: 0.35em;
+    line-height: 0%;
+    font-weight: 600;
+}
+
+.cta2 {
+    align-self: stretch;
+    background-color: #fff;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 48px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 14px;
+    color: #000;
+    font-family: 'Open Sans';
+}
+
+.la-pradina-parent {
+    width: 224px;
+    margin: 0 !important;
+    position: absolute;
+    right: 45px;
+    bottom: 33px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+    z-index: 1;
+}
+
+.frame-parent4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: relative;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Segoe UI';
+}
